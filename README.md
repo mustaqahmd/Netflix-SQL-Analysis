@@ -49,15 +49,10 @@ The dataset contains metadata about Netflix content including:
 
 ---
 
-## 🖼️ Sample Output
+## 🖼️ Output Screenshot
 
-> Top 5 Content-Producing Countries (SQL Output Example)
 
-| Country     | Total Content |
-|-------------|----------------|
-| United States | 2000+       |
-| India        | 900+         |
-| United Kingdom | 750+       |
+![Screenshot 2025-07-07 020823](https://github.com/user-attachments/assets/ebf530b0-e61e-49ff-a0ac-745a1e7bbb52)
 
 ---
 
